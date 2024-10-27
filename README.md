@@ -10,13 +10,22 @@
 </div>
 
 <h3 align="left">About Me</h3>
-<p align="left">👋 Hello! I'm a passionate Data Analyst and Data Science student with a portfolio of over 9 diverse projects. My expertise lies in transforming raw data into actionable insights, presenting findings through clear PowerPoint presentations, and building predictive models that align with industry needs.</p>
+<p align="left">
+👋 Hello! I’m a driven Data Analyst and Data Science enthusiast with a proven portfolio of over 9 diverse projects. My expertise lies in transforming complex datasets into data-driven insights that guide strategic decisions. I excel in creating impactful data visualizations and delivering compelling presentations to communicate findings effectively to stakeholders.
 
-<p align="left">💼 <strong>Core Skills:</strong><br>
-- Data Analysis & Visualization: Skilled in using Power BI and PowerPoint to communicate data stories effectively.<br>
-- AI & Machine Learning: Experienced in designing and deploying predictive models with Python, Scikit-Learn, and TensorFlow.<br>
-- Database & Statistical Analysis: Proficient in MySQL, Pandas, and statistical analysis to support data-driven decisions.<br><br>
-Eager to contribute to and collaborate on impactful data projects—let’s turn data into insights together!
+💡 I am passionate about leveraging machine learning models to solve real-world business problems, and I'm proficient in implementing predictive analytics solutions to drive growth and optimize processes. With a solid foundation in statistical analysis, I thrive on extracting valuable insights from raw data and aligning analytics with industry needs.
+
+💼 Core Skills:
+
+Data Analysis & Visualization: Skilled in using Advanced Excel, Power BI and PowerPoint to create clear and actionable data narratives.
+
+Machine Learning & AI: Experienced in building and deploying predictive models using Python, Scikit-Learn, and TensorFlow.
+
+Database Management & Statistical Analysis: Proficient in MySQL, Pandas, and statistical methodologies to support data-driven decision-making.
+
+Data Extraction and Transformation: Expert in data wrangling, data preprocessing, and transforming raw datasets into the required format for analysis.
+
+💡 Eager to contribute to and collaborate on impactful data projects that turn data into actionable insights. Let’s harness the power of data together!</p>
 
 Gmail contact : pratikkage1518@gmail.com
 </p>
