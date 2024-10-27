@@ -80,7 +80,7 @@ Gmail contact : pratikkage1518@gmail.com
     <td align="center" width="300">
       <a href='https://github.com/Pratikkage/Athlete-global-events-trend-Data-Analysis' target="_blank">
         <img src="https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_xs_2x/f_auto/primary/hiuf5ahd3cbhr11q6m5m" alt="Project 5" width="300" height="200" style="border-radius: 15px;"/>
-        <br><strong>Athletes sports events data analytics</strong>
+        <br><strong>Athletes global events data analytics</strong>
       </a>
     </td>
     <td align="center" width="300">
