@@ -53,19 +53,19 @@ Gmail contact : pratikkage1518@gmail.com
   <tr>
     <td align="center" width="300">
       <a href="https://github.com/pratikkage/project1" target="_blank">
-        <img src="https://cdn.sanity.io/images/dzmgtty0/production/6ce931c0b54207125563eadedeb0b7d8b39a12cf-1480x824.jpg?w=3840&h=2137&q=80&fit=crop&auto=format" alt="Project 1" width="270" height="200" style="border-radius: 15px;"/>
+        <img src="https://cdn.sanity.io/images/dzmgtty0/production/6ce931c0b54207125563eadedeb0b7d8b39a12cf-1480x824.jpg?w=3840&h=2137&q=80&fit=crop&auto=format" alt="Project 1" width="300" height="200" style="border-radius: 15px;"/>
         <br><strong>Cryptocurrency analytics and forecasting using Microsft Power BI</strong>
       </a>
     </td>
     <td align="center" width="300">
       <a href="https://github.com/pratikkage/project2" target="_blank">
-        <img src="https://media.istockphoto.com/id/603310486/photo/three-departments-working-towards-one-goal.jpg?s=612x612&w=0&k=20&c=Q3SUc763P_Qhn-fclAQCaZlJE0RQWCmo3Z_5TpBN8Ds=" alt="Project 2" width="270" height="200" style="border-radius: 15px;"/>
+        <img src="https://media.istockphoto.com/id/603310486/photo/three-departments-working-towards-one-goal.jpg?s=612x612&w=0&k=20&c=Q3SUc763P_Qhn-fclAQCaZlJE0RQWCmo3Z_5TpBN8Ds=" alt="Project 2" width="300" height="200" style="border-radius: 15px;"/>
         <br><strong>HR Absenteeism analytics</strong>
       </a>
     </td>
     <td align="center" width="300">
       <a href="https://github.com/pratikkage/project3" target="_blank">
-        <img src="https://static1.pocketlintimages.com/wordpress/wp-content/uploads/wm/127558-apps-news-how-to-install-the-google-play-store-on-an-android-phone-or-tablet-that-doesnt-have-it-image1-tphdngxs9w.jpg" alt="Project 3" width="270" height="200" style="border-radius: 15px;"/>
+        <img src="https://static1.pocketlintimages.com/wordpress/wp-content/uploads/wm/127558-apps-news-how-to-install-the-google-play-store-on-an-android-phone-or-tablet-that-doesnt-have-it-image1-tphdngxs9w.jpg" alt="Project 3" width="300" height="200" style="border-radius: 15px;"/>
         <br><strong>The Android App Market on Google Play data analysis</strong>
       </a>
     </td>
@@ -73,19 +73,19 @@ Gmail contact : pratikkage1518@gmail.com
   <tr>
     <td align="center" width="300">
       <a href="https://github.com/pratikkage/project4" target="_blank">
-        <img src="https://willowresearch.com/wp-content/uploads/2019/06/US-People-Map.jpg" alt="Project 4" width="270" height="200" style="border-radius: 15px;"/>
+        <img src="https://willowresearch.com/wp-content/uploads/2019/06/US-People-Map.jpg" alt="Project 4" width="300" height="200" style="border-radius: 15px;"/>
         <br><strong>USA census income insights and classification model </strong>
       </a>
     </td>
     <td align="center" width="300">
       <a href="https://github.com/pratikkage/project5" target="_blank">
-        <img src="https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_xs_2x/f_auto/primary/hiuf5ahd3cbhr11q6m5m" alt="Project 5" width="270" height="200" style="border-radius: 15px;"/>
+        <img src="https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_xs_2x/f_auto/primary/hiuf5ahd3cbhr11q6m5m" alt="Project 5" width="300" height="200" style="border-radius: 15px;"/>
         <br><strong>Athletes sports events data analytics</strong>
       </a>
     </td>
     <td align="center" width="300">
       <a href="https://github.com/pratikkage/project6" target="_blank">
-        <img src="https://static.startuptalky.com/2021/11/Airbnb-Success-Story-StartupTalky-1.jpg" alt="Project 6" width="270" height="200" style="border-radius: 15px;"/>
+        <img src="https://static.startuptalky.com/2021/11/Airbnb-Success-Story-StartupTalky-1.jpg" alt="Project 6" width="300" height="200" style="border-radius: 15px;"/>
         <br><strong>Airbnb.com Case Study</strong>
       </a>
     </td>
@@ -93,13 +93,13 @@ Gmail contact : pratikkage1518@gmail.com
   <tr>
     <td align="center" width="300">
       <a href="https://github.com/pratikkage/project7" target="_blank">
-        <img src="https://media.licdn.com/dms/image/C5612AQHjsBVD_QF3yw/article-cover_image-shrink_600_2000/0/1520132412135?e=2147483647&v=beta&t=u3gEZ5qUCZQTGyDXMrn6F9IC-BX96_TBKkpNpgaUHB0" alt="Project 7" width="270" height="200" style="border-radius: 15px;"/>
+        <img src="https://media.licdn.com/dms/image/C5612AQHjsBVD_QF3yw/article-cover_image-shrink_600_2000/0/1520132412135?e=2147483647&v=beta&t=u3gEZ5qUCZQTGyDXMrn6F9IC-BX96_TBKkpNpgaUHB0" alt="Project 7" width="300" height="200" style="border-radius: 15px;"/>
         <br><strong>Analysis of Intrusion detection system using machine learning</strong>
       </a>
     </td>
     <td align="center" width="300">
       <a href="https://github.com/pratikkage/project8" target="_blank">
-        <img src="https://www.drvijaymalik.com/wp-content/uploads/2022/09/Solar-power-plant-business-analysis.jpg" alt="Project 8" width="270" height="200" style="border-radius: 15px;"/>
+        <img src="https://www.drvijaymalik.com/wp-content/uploads/2022/09/Solar-power-plant-business-analysis.jpg" alt="Project 8" width="300" height="200" style="border-radius: 15px;"/>
         <br><strong>Solar power plant performance prediction</strong>
       </a>
     </td>
