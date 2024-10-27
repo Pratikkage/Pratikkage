@@ -48,7 +48,7 @@ Gmail contact : pratikkage1518@gmail.com
   <img src="https://github-readme-stats.vercel.app/api?username=pratikkage&show_icons=true&locale=en" alt="pratikkage" height="200" />
 </div>
 
-<h3 align="center">My Portfolio:</h3>
+<h3 align="center">MY PORTFOLIO PROJECTS</h3>
 <table align="center">
   <tr>
     <td align="center" width="300">
