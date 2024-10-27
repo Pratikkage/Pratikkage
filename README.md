@@ -58,13 +58,13 @@ Gmail contact : pratikkage1518@gmail.com
       </a>
     </td>
     <td align="center" width="300">
-      <a href="https://github.com/pratikkage/project2" target="_blank">
+      <a href="https://github.com/Pratikkage/HR-Absenteeism-Analytics" target="_blank">
         <img src="https://media.istockphoto.com/id/603310486/photo/three-departments-working-towards-one-goal.jpg?s=612x612&w=0&k=20&c=Q3SUc763P_Qhn-fclAQCaZlJE0RQWCmo3Z_5TpBN8Ds=" alt="Project 2" width="300" height="200" style="border-radius: 15px;"/>
         <br><strong>HR Absenteeism analytics</strong>
       </a>
     </td>
     <td align="center" width="300">
-      <a href="https://github.com/pratikkage/project3" target="_blank">
+      <a href="https://github.com/Pratikkage/Android-app-market-on-Google-play-store-data-analytics" target="_blank">
         <img src="https://static1.pocketlintimages.com/wordpress/wp-content/uploads/wm/127558-apps-news-how-to-install-the-google-play-store-on-an-android-phone-or-tablet-that-doesnt-have-it-image1-tphdngxs9w.jpg" alt="Project 3" width="300" height="200" style="border-radius: 15px;"/>
         <br><strong>The Android App Market on Google Play data analysis</strong>
       </a>
@@ -72,19 +72,19 @@ Gmail contact : pratikkage1518@gmail.com
   </tr>
   <tr>
     <td align="center" width="300">
-      <a href="https://github.com/pratikkage/project4" target="_blank">
+      <a href="https://github.com/Pratikkage/USA-Census-Income-Insights-Comprehensive-Analysis-and-Classification-Model" target="_blank">
         <img src="https://willowresearch.com/wp-content/uploads/2019/06/US-People-Map.jpg" alt="Project 4" width="300" height="200" style="border-radius: 15px;"/>
         <br><strong>USA census income insights analytics and classification model </strong>
       </a>
     </td>
     <td align="center" width="300">
-      <a href="https://github.com/pratikkage/project5" target="_blank">
+      <a href='https://github.com/Pratikkage/Athlete-global-events-trend-Data-Analysis' target="_blank">
         <img src="https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_xs_2x/f_auto/primary/hiuf5ahd3cbhr11q6m5m" alt="Project 5" width="300" height="200" style="border-radius: 15px;"/>
         <br><strong>Athletes sports events data analytics</strong>
       </a>
     </td>
     <td align="center" width="300">
-      <a href="https://github.com/pratikkage/project6" target="_blank">
+      <a href="https://github.com/Pratikkage/Airbnb-Case_study" target="_blank">
         <img src="https://static.startuptalky.com/2021/11/Airbnb-Success-Story-StartupTalky-1.jpg" alt="Project 6" width="300" height="200" style="border-radius: 15px;"/>
         <br><strong>Airbnb.com Case Study</strong>
       </a>
