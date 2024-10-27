@@ -51,7 +51,7 @@ Gmail contact : pratikkage1518@gmail.com
     <td align="center" width="300">
       <a href="https://github.com/pratikkage/project2" target="_blank">
         <img src="https://media.istockphoto.com/id/603310486/photo/three-departments-working-towards-one-goal.jpg?s=612x612&w=0&k=20&c=Q3SUc763P_Qhn-fclAQCaZlJE0RQWCmo3Z_5TpBN8Ds=" alt="Project 2" width="270" height="200" style="border-radius: 15px;"/>
-        <br><strong>HR absenteeism analytics</strong>
+        <br><strong>HR Absenteeism analytics</strong>
       </a>
     </td>
     <td align="center" width="300">
