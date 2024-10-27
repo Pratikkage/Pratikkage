@@ -52,7 +52,7 @@ Gmail contact : pratikkage1518@gmail.com
 <table align="center">
   <tr>
     <td align="center" width="300">
-      <a href="[https://github.com/pratikkage/project1](https://github.com/Pratikkage/Airbnb-Case_study)" target="_blank">
+      <a href="https://github.com/Pratikkage/Airbnb-Case_study" target="_blank">
         <img src="https://cdn.sanity.io/images/dzmgtty0/production/6ce931c0b54207125563eadedeb0b7d8b39a12cf-1480x824.jpg?w=3840&h=2137&q=80&fit=crop&auto=format" alt="Project 1" width="300" height="200" style="border-radius: 15px;"/>
         <br><strong>Cryptocurrency analytics and forecasting using Microsft Power BI</strong>
       </a>
@@ -101,12 +101,6 @@ Gmail contact : pratikkage1518@gmail.com
       <a href="https://github.com/pratikkage/project8" target="_blank">
         <img src="https://www.drvijaymalik.com/wp-content/uploads/2022/09/Solar-power-plant-business-analysis.jpg" alt="Project 8" width="300" height="200" style="border-radius: 15px;"/>
         <br><strong>Solar power plant performance prediction</strong>
-      </a>
-    </td>
-    <td align="center" width="300">
-      <a href="https://github.com/pratikkage/project9" target="_blank">
-        <img src="https://jcblagri.in/x_images/blog_pics/16766358313_(2).jpg" alt="Project 9" width="270" height="200" style="border-radius: 15px;"/>
-        <br><strong>Soil health monitoring using ML and AI</strong>
       </a>
     </td>
   </tr>
