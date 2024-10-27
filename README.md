@@ -74,7 +74,7 @@ Gmail contact : pratikkage1518@gmail.com
     <td align="center" width="300">
       <a href="https://github.com/pratikkage/project4" target="_blank">
         <img src="https://willowresearch.com/wp-content/uploads/2019/06/US-People-Map.jpg" alt="Project 4" width="300" height="200" style="border-radius: 15px;"/>
-        <br><strong>USA census income insights and classification model </strong>
+        <br><strong>USA census income insights analytics and classification model </strong>
       </a>
     </td>
     <td align="center" width="300">
