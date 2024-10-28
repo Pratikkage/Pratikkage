@@ -52,7 +52,7 @@ Gmail contact : pratikkage1518@gmail.com
 <table align="center">
   <tr>
     <td align="center" width="300">
-      <a href="https://github.com/Pratikkage/Airbnb-Case_study" target="_blank">
+      <a href="https://github.com/Pratikkage/Cryptocurrency-market-analytics-and-forecasting-using-Microsoft-Power-BI" target="_blank">
         <img src="https://cdn.sanity.io/images/dzmgtty0/production/6ce931c0b54207125563eadedeb0b7d8b39a12cf-1480x824.jpg?w=3840&h=2137&q=80&fit=crop&auto=format" alt="Project 1" width="300" height="200" style="border-radius: 15px;"/>
         <br><strong>Cryptocurrency analytics and forecasting using Microsft Power BI</strong>
       </a>
