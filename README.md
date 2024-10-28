@@ -106,7 +106,7 @@ Gmail contact : pratikkage1518@gmail.com
         <td align="center" width="300">
       <a href="https://github.com/pratikkage/project8" target="_blank">
         <img src="https://ocia.org/wp-content/uploads/2023/08/OCIA-Cover-1080x675.jpg" alt="Project 8" width="300" height="200" style="border-radius: 15px;"/>
-        <br><strong>Soil Health Prediction using Machine learning and AI techniques</strong>
+        <br><strong>Soil Health Prediction for agriculture using Machine learning and AI techniques</strong>
       </a>
     </td>
   </tr>
