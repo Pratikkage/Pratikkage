@@ -92,7 +92,7 @@ Gmail contact : pratikkage1518@gmail.com
   </tr>
   <tr>
     <td align="center" width="300">
-      <a href="https://github.com/pratikkage/project7" target="_blank">
+      <a href="https://github.com/Pratikkage/Analysis-of-Intrusion-detection-system-using-Machine-learning" target="_blank">
         <img src="https://media.licdn.com/dms/image/C5612AQHjsBVD_QF3yw/article-cover_image-shrink_600_2000/0/1520132412135?e=2147483647&v=beta&t=u3gEZ5qUCZQTGyDXMrn6F9IC-BX96_TBKkpNpgaUHB0" alt="Project 7" width="300" height="200" style="border-radius: 15px;"/>
         <br><strong>Analysis of Intrusion detection system using machine learning</strong>
       </a>
