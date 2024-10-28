@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pratik Kage</h1>
+<h1 align="center">Hi,👋 I'm Pratik Kage</h1>
 <h3 align="center">A Passionate Data Analyst and Data Scientist who's Imagining a future where data drives everything...</h3>
 
 <p align="center">
