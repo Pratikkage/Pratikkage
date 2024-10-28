@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pratik Kage</h1>
-<h3 align="center">A Passionate Data Analyst and Data Scientist who's imagining a future where data drives everything...</h3>
+<h3 align="center">A Passionate Data Analyst and Data Scientist who's Imagining a future where data drives everything...</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pratikkage&label=Profile%20views&color=0e75b6&style=flat" alt="pratikkage" />
