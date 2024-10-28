@@ -5,9 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=pratikkage&label=Profile%20views&color=0e75b6&style=flat" alt="pratikkage" />
 </p>
 
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
-</div>
+
 
 <h3 align="left">About Me</h3>
 <p align="left">
@@ -27,8 +25,11 @@ Data Extraction and Transformation: Expert in data wrangling, data preprocessing
 
 💡 Eager to contribute to and collaborate on impactful data projects that turn data into actionable insights. Let’s harness the power of data together!</p>
 
-Gmail contact : pratikkage1518@gmail.com
+Reach me : pratikkage1518@gmail.com
 </p>
+<a href="www.linkedin.com/in/kage1" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="LinkedIn Profile" width="50" height="50" style="border-radius: 10px;">
+</a>
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
