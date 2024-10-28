@@ -50,7 +50,7 @@ Gmail contact : pratikkage1518@gmail.com
   <tr>
     <td align="center" width="350">
       <a href="https://github.com/Pratikkage/Cryptocurrency-market-analytics-and-forecasting-using-Microsoft-Power-BI" target="_blank">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRdDquzTx82Y86j3i9ORXQMG9O16EfDWoSmg&s" alt="Project 1" width="350" height="200" style="border-radius: 15px;"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRdDquzTx82Y86j3i9ORXQMG9O16EfDWoSmg&s" alt="Project 1" width="350" height="170" style="border-radius: 15px;"/>
         <br><strong>Cryptocurrency analytics and forecasting using Microsoft Power BI</strong>
       </a>
     </td>
