@@ -94,7 +94,7 @@ Gmail contact : pratikkage1518@gmail.com
     <td align="center" width="300">
       <a href="https://github.com/Pratikkage/Analysis-of-Intrusion-detection-system-using-Machine-learning" target="_blank">
         <img src="https://media.licdn.com/dms/image/C5612AQHjsBVD_QF3yw/article-cover_image-shrink_600_2000/0/1520132412135?e=2147483647&v=beta&t=u3gEZ5qUCZQTGyDXMrn6F9IC-BX96_TBKkpNpgaUHB0" alt="Project 7" width="300" height="200" style="border-radius: 15px;"/>
-        <br><strong>Analysis of Intrusion detection system using machine learning</strong>
+        <br><strong>Analysis of Intrusion detection system using Mahcine learning and AI techniques</strong>
       </a>
     </td>
     <td align="center" width="300">
@@ -104,9 +104,9 @@ Gmail contact : pratikkage1518@gmail.com
       </a>
     </td>
         <td align="center" width="300">
-      <a href="https://github.com/pratikkage/project8" target="_blank">
+      <a href="https://github.com/Pratikkage/Soil-health-prediction-using-machine-learning-approcah" target="_blank">
         <img src="https://ocia.org/wp-content/uploads/2023/08/OCIA-Cover-1080x675.jpg" alt="Project 8" width="300" height="200" style="border-radius: 15px;"/>
-        <br><strong>Soil Health Prediction for agriculture using Machine learning and AI techniques</strong>
+        <br><strong>Soil Health Prediction for agriculture using Machine learning approach </strong>
       </a>
     </td>
   </tr>
