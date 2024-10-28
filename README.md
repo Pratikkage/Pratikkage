@@ -27,7 +27,7 @@ Data Extraction and Transformation: Expert in data wrangling, data preprocessing
 
 Reach me : pratikkage1518@gmail.com
 </p>
-<a href="www.linkedin.com/in/kage1" target="_blank">
+<a href="https://www.linkedin.com/in/kage1/" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="LinkedIn Profile" width="50" height="50" style="border-radius: 10px;">
 </a>
 
