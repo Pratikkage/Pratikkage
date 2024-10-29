@@ -24,24 +24,6 @@ Reach me : pratikkage1518@gmail.com
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="LinkedIn Profile" width="50" height="50" style="border-radius: 10px;">
 </a>
 
-<h3 align="center">Languages and Tools:</h3>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
-  <img src="https://images.datacamp.com/image/upload/v1724169856/image_ff55d03003.png" height="50" alt="datacamp logo" />
-  <img src="https://img.freepik.com/premium-vector/microsoft-excel-logo-spreadsheet-program-microsoft-office-365-logotype-microsoft-corporation-software-editorial_661108-17045.jpg" height="50" alt="excel logo" />
-  <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
-  <img src="https://numfocus.org/wp-content/uploads/2017/11/scikitlearn-logo-300.png" height="50" alt="scikit-learn logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo" />
-</div>
-
-<h3 align="center">🔥 My Stats:</h3>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pratikkage&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=pratikkage&show_icons=true&locale=en" alt="pratikkage" height="200" />
-</div>
-
 <h3 align="center">📋 MY PORTFOLIO PROJECTS 📋</h3>
 <table align="center">
   <tr>
@@ -105,6 +87,25 @@ Reach me : pratikkage1518@gmail.com
     </td>
   </tr>
 </table>
+
+<h3 align="center">Languages and Tools:</h3>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
+  <img src="https://images.datacamp.com/image/upload/v1724169856/image_ff55d03003.png" height="50" alt="datacamp logo" />
+  <img src="https://img.freepik.com/premium-vector/microsoft-excel-logo-spreadsheet-program-microsoft-office-365-logotype-microsoft-corporation-software-editorial_661108-17045.jpg" height="50" alt="excel logo" />
+  <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
+  <img src="https://numfocus.org/wp-content/uploads/2017/11/scikitlearn-logo-300.png" height="50" alt="scikit-learn logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo" />
+</div>
+
+<h3 align="center">🔥 My Stats:</h3>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Pratikkage&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=pratikkage&show_icons=true&locale=en" alt="pratikkage" height="200" />
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pratikkage&label=Profile%20views&color=0e75b6&style=flat" alt="pratikkage" />
 </p> 
