@@ -24,7 +24,7 @@ Reach me : pratikkage1518@gmail.com
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="LinkedIn Profile" width="50" height="50" style="border-radius: 10px;">
 </a>
 
-<h3 align="center">📋 MY PORTFOLIO PROJECTS 📋</h3>
+<h2 align="center">📋 MY PORTFOLIO PROJECTS 📋</h2>
 <table align="center">
   <tr>
     <td align="center" width="350">
