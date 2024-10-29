@@ -6,8 +6,6 @@
 <p align="left">
 👋 Hello! I’m a driven Data Analyst and Data Science enthusiast with a strong portfolio of over 9 diverse projects. My expertise lies in transforming complex datasets into data-driven insights that guide strategic decisions. I excel in creating impactful data visualizations and delivering compelling presentations to communicate findings effectively to stakeholders.
 
-💡 I am passionate about leveraging machine learning models to solve real-world business problems, and I'm proficient in implementing predictive analytics solutions to drive growth and optimize processes. With a solid foundation in statistical analysis, I thrive on extracting valuable insights from raw data and aligning analytics with industry needs.
-
 💼 Core Skills:
 
 Data Analysis & Visualization: Skilled in using Advanced Excel, Power BI and PowerPoint to create clear and actionable data narratives.
