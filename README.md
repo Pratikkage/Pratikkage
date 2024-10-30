@@ -8,13 +8,13 @@
 
 💼 Core Skills:
 
-Data Analysis & Visualization: Skilled in using Advanced Excel, Power BI and PowerPoint to create clear and actionable data narratives.
+Data Analysis & Visualization (Python, Pandas, Power BI, Advanced Excel)
 
-Machine Learning & AI: Experienced in building and deploying predictive models using Python, Scikit-Learn, and TensorFlow.
+Machine Learning & AI ( Supervised and unspuervised models, Scikit-learn, tensorflow)
 
-Database Management & Statistical Analysis: Proficient in MySQL, Pandas, and statistical methodologies to support data-driven decision-making.
+Database Management & Statistical Analysis (MySQL, Inferential stats)
 
-Data Extraction and Transformation: Expert in data wrangling, data preprocessing, and transforming raw datasets into the required format for analysis.
+Data Extraction and Transformation ( Extract-Transform-Load process)
 
 💡 Eager to contribute to and collaborate on impactful data projects that turn data into actionable insights. Let’s harness the power of data together!</p>
 
