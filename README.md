@@ -6,15 +6,13 @@
 <p align="left">
 👋 Hello! I’m a driven Data Analyst and Data Science enthusiast with a strong portfolio of over 9 diverse projects. My expertise lies in transforming complex datasets into data-driven insights that guide strategic decisions. I excel in creating impactful data visualizations and delivering compelling presentations to communicate findings effectively to stakeholders.
 
-💼 Core Skills:
-
-Data Analysis & Visualization (Python, Pandas, Power BI, Advanced Excel)
-
-Machine Learning & AI ( Supervised and unspervised machine learning, Scikit-learn, tensorflow)
-
-Database Management & Statistical Analysis (MySQL, Inferential stats)
-
-Data Extraction and Transformation ( Extract-Transform-Load process)
+h3 💼 align='left' > CORE SKILLS </h3>
+<ul>
+    <li>🔍 Data Analysis & Visualization (Python, Pandas, Power BI, Advanced Excel)</li>
+    <li>🤖 Machine Learning & AI (Supervised and unsupervised machine learning, Scikit-learn, TensorFlow)</li>
+    <li>📊 Database Management & Statistical Analysis (MySQL, Inferential stats)</li>
+    <li>🔄 Data Extraction and Transformation (Extract-Transform-Load process)</li>
+</ul>
 
 💡 Eager to contribute to and collaborate on impactful data projects that turn data into actionable insights. Let’s harness the power of data together!</p>
 
