@@ -10,7 +10,7 @@
 
 Data Analysis & Visualization (Python, Pandas, Power BI, Advanced Excel)
 
-Machine Learning & AI ( Supervised and unspuervised models, Scikit-learn, tensorflow)
+Machine Learning & AI ( Supervised and unspervised machine learning, Scikit-learn, tensorflow)
 
 Database Management & Statistical Analysis (MySQL, Inferential stats)
 
