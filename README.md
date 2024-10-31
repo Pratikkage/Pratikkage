@@ -74,7 +74,7 @@ Reach me: pratikkage1518@gmail.com
       </a>
     </td>
     <td align="center" width="245"> <!-- Reduced width -->
-      <a href="https://github.com/pratikkage/project8" target="_blank">
+      <a href="https://github.com/Pratikkage/Solar-Power-plant-performance-prediction" target="_blank">
         <img src="https://www.drvijaymalik.com/wp-content/uploads/2022/09/Solar-power-plant-business-analysis.jpg" alt="Project 8" width="148.5" height="85" style="border-radius: 15px;"/> <!-- Reduced image size -->
         <br><strong>Solar power plant performance prediction</strong>
       </a>
