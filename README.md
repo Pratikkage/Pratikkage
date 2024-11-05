@@ -5,7 +5,7 @@
 
 <h3 align="left">ABOUT ME</h3>
 <p align="left">
-    👋 Hello! I’m a driven Data Analyst and Data Science enthusiast with a Strong Portfolio of over 9 diverse projects. My expertise lies in transforming complex datasets into data-driven insights that guide strategic decisions. I excel in creating impactful data visualizations, delivering compelling presentations to communicate findings effectively to stakeholders, and in designing, developing, and deploying machine learning models and artificial intelligence systems for predictive analytics.
+👋 Hello! I'm a Data Analyst and Data Science enthusiast with a strong portfolio of over 9 projects. I specialize in transforming complex data into strategic insights, building and implementing machine learning models for predictive analytics, and delivering impactful presentations to engage stakeholders.
 
 <h2 align="center"> MY PORTFOLIO PROJECTS </h2>
 <table align="center">
