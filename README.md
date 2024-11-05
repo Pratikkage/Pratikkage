@@ -8,22 +8,6 @@
     👋 Hello! I’m a driven Data Analyst and Data Science enthusiast with a Strong Portfolio of over 9 diverse projects. My expertise lies in transforming complex datasets into data-driven insights that guide strategic decisions. I excel in creating impactful data visualizations, delivering compelling presentations to communicate findings effectively to stakeholders, and in designing, developing, and deploying machine learning models and artificial intelligence systems for predictive analytics.
 <hr>
 
-<h3 💼 align='left' > CORE SKILLS </h3>
-<ul>
-    <li>🔍 Data Analysis & Visualization (Python, Pandas, Power BI, Advanced Excel)</li>
-    <li>🤖 Machine Learning & AI (Supervised and unsupervised machine learning, Scikit-learn, TensorFlow)</li>
-    <li>📊 Database Management & Statistical Analysis (MySQL, Inferential stats)</li>
-    <li>🔄 Data Extraction and Transformation (Extract-Transform-Load process)</li>
-</ul>
-
-💡 Eager to contribute to and collaborate on impactful data projects that turn data into actionable insights. Let’s harness the power of data together!</p>
-
-Reach me: pratikkage1518@gmail.com
-</p>
-<a href="https://www.linkedin.com/in/kage1/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="LinkedIn Profile" width="50" height="50" style="border-radius: 10px;">
-</a>
-
 <h2 align="center"> MY PORTFOLIO PROJECTS </h2>
 <table align="center">
   <tr>
@@ -87,6 +71,22 @@ Reach me: pratikkage1518@gmail.com
     </td>
   </tr>
 </table>
+
+<h3 💼 align='left' > CORE SKILLS </h3>
+<ul>
+    <li>🔍 Data Analysis & Visualization (Python, Pandas, Power BI, Advanced Excel)</li>
+    <li>🤖 Machine Learning & AI (Supervised and unsupervised machine learning, Scikit-learn, TensorFlow)</li>
+    <li>📊 Database Management & Statistical Analysis (MySQL, Inferential stats)</li>
+    <li>🔄 Data Extraction and Transformation (Extract-Transform-Load process)</li>
+</ul>
+
+💡 Eager to contribute to and collaborate on impactful data projects that turn data into actionable insights. Let’s harness the power of data together!</p>
+
+Reach me: pratikkage1518@gmail.com
+</p>
+<a href="https://www.linkedin.com/in/kage1/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" alt="LinkedIn Profile" width="50" height="50" style="border-radius: 10px;">
+</a>
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
